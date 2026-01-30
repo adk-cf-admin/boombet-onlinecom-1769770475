@@ -1,0 +1,224 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#FD346E",
+            "lang-select-color": "#222829",
+            "bg-light": "#700122",
+            "welcome-bonus-bg": "#e4e4e4",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#f3f4f1",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#FD346E",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#fb333d",
+            "yellow": "#ffffff",
+            "yellow-button": "#48019F",
+            "button-text": "#FD346E",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffd5e1",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#fea0bc",
+            "faq-label": "#fe83a8",
+            "bg-footer": "#000000",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffffff",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2362"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2365",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Boombet Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2366",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Boombet"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Boombet",
+                    "title": "Boombet — Online Casino Australia | 200% Bonus",
+                    "description": "Play at Boombet Casino Australia with 300+ pokies, live dealer games and sports betting. Claim up to AU$2000 bonus. Fast payouts guaranteed!",
+                    "canonical": "boombet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2367",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "boombet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2368"
+                },
+                "hero": {
+                    "title": "Play Premium Casino Games & Sports at Boombet",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2369",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2370",
+                    "mobileImageSizeModifier": -5,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "Looking for a trusted Australian casino? We offer licensed gaming with fast payouts, 24\/7 support and exclusive bonuses for local players. Here's what makes us stand out:",
+                    "items": [
+                        "Licensed by Northern Territory Gaming Authority with certified fair play",
+                        "300+ pokies from Microgaming, Evolution Gaming, Rival and Betsoft providers",
+                        "Fast withdrawals within 24 hours via PayID, POLi, Bank Transfer and crypto",
+                        "Sports betting on AFL, NRL, NBA, NFL and horse racing with best odds",
+                        "Welcome bonus up to AU$2000 with flexible wagering requirements",
+                        "Mobile-optimized platform for iOS and Android with full game access"
+                    ],
+                    "advantagesAfterText": "Join thousands of Aussie players enjoying secure gaming and instant payouts. Our support team is available around the clock to assist you via live chat, email or phone.",
+                    "knowMore": "Know more",
+                    "appTitle": "Boombet App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2371",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Boombet App",
+                    "mobileGooglePlayImageTitle": "Boombet App",
+                    "mobileIosImageTitle": "Boombet App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Boombet Casino",
+                        "description1": "We have been serving Australian players for over two decades under trusted gaming licenses. Our commitment to excellence has made us one of the most reliable casino and betting platforms. We combine pokies, table games and sports betting in one place.",
+                        "items": [
+                            "Launched Australia's first integrated sports and casino platform",
+                            "Expanded game library to 300+ pokies from premium providers",
+                            "Introduced live dealer tables with real-time streaming technology",
+                            "Added instant withdrawal methods including PayID and cryptocurrencies"
+                        ],
+                        "description2": "We operate under strict Northern Territory gaming regulations with certified fairness standards. Our platform uses advanced SSL encryption to protect your data and transactions. All games are regularly tested by independent auditors for random outcomes and transparency.\nWe continue expanding our gaming offerings with new pokies and live tables monthly. Our commitment to responsible gaming remains our top priority. Join us today and discover why we're the preferred choice for Australian casino players and sports bettors.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2372",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": ""
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Complete Guide to Boombet Games & Betting",
+                        "description": "<h2>Your Ultimate Gaming Destination in Australia<\/h2>\n\n<p>We pride ourselves on offering one of the most comprehensive gaming experiences available to Australian players. Our platform seamlessly combines casino entertainment with sports betting, giving you access to hundreds of premium games and thousands of betting markets. Whether you're spinning pokies, playing live dealer tables or backing your favourite AFL team, we've built our platform with your convenience and enjoyment in mind.<\/p>\n\n<p>Our game library features over 300 carefully selected titles from industry-leading providers including Microgaming, Evolution Gaming, Rival and Betsoft. We continuously update our collection to ensure you always have access to the latest releases alongside classic favourites. Every game on our platform is certified for fairness and runs smoothly on desktop and mobile devices without requiring downloads.<\/p>\n\n<h3>Premium Pokies Collection<\/h3>\n\n<p>Our pokies library is the heart of our casino offering, featuring hundreds of titles across every theme and style imaginable. From classic three-reel fruit machines to modern video slots with immersive graphics and bonus features, we cater to all preferences and budgets. We've partnered with the best software providers to bring you games with stunning visuals, engaging soundtracks and generous payout potential.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Classic pokies:<\/strong> Traditional three-reel games with simple mechanics and nostalgic symbols like fruits, bars and sevens for straightforward gameplay.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Video pokies:<\/strong> Modern five-reel slots with multiple paylines, wild symbols, scatter bonuses and interactive features that enhance winning potential.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Progressive jackpots:<\/strong> Network-linked games where prize pools grow with every spin across multiple casinos, offering life-changing payouts to lucky winners.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Branded slots:<\/strong> Licensed games based on popular movies, TV shows and music bands with authentic soundtracks and clips from original content.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Megaways pokies:<\/strong> Innovative slots with dynamic reel systems offering thousands of ways to win on every spin with cascading reels and multipliers.\n  <\/li>\n<\/ul>\n\n<p>We ensure every pokie in our collection meets strict quality standards for graphics, gameplay and return-to-player percentages. Our games are optimized for smooth performance on all devices, allowing you to enjoy the same premium experience whether you're playing on desktop, tablet or smartphone. We also provide demo modes for most titles so you can try games risk-free before wagering real money.<\/p>\n\n<h3>Live Dealer Casino Experience<\/h3>\n\n<p>Our live dealer section brings the authentic casino atmosphere directly to your screen with real-time streaming from professional studios. Powered by Evolution Gaming, the industry leader in live casino technology, we offer an immersive experience where you interact with friendly dealers and other players while enjoying classic table games. All our live tables feature HD video streams, multiple camera angles and customizable settings for your comfort.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live roulette tables:<\/strong> Including European, American, French and speed variants with various betting limits suitable for casual players and high rollers alike.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Blackjack games:<\/strong> With classic rules, unlimited seats and special side bets like Perfect Pairs and 21+3 for additional winning opportunities.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Baccarat tables:<\/strong> Offering standard, speed and VIP versions with squeeze feature for enhanced suspense and authentic casino atmosphere.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live poker variants:<\/strong> Including Three Card Poker, Caribbean Stud and Texas Hold'em Bonus with progressive jackpots and competitive payouts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Game show experiences:<\/strong> Like Crazy Time, Monopoly Live and Mega Ball combining entertainment with gambling for unique multiplier wins.\n  <\/li>\n<\/ul>\n\n<p>Our live dealers are professionally trained to ensure smooth gameplay and create a welcoming environment for players of all experience levels. You can chat with dealers and other participants using the built-in messaging feature, adding a social element to your gaming sessions. We maintain multiple tables for each game type to minimize waiting times during peak hours.<\/p>\n\n<h3>Betting Limits and Wagering Options<\/h3>\n\n<p>We understand that our players have diverse budgets and preferences, which is why we offer flexible betting limits across all game categories. Whether you're a casual player looking to stretch your bankroll or a high roller seeking maximum stakes, we've structured our games to accommodate everyone. Our transparent limit system ensures you always know the minimum and maximum bets before starting any game.<\/p>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-size: 14px; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #ff6b00;\">\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Game<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 8px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr style=\"background-color: #5e0b2e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Pokies<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$100<\/td>\n    <\/tr>\n    <tr style=\"background-color: #42051e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$5,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #5e0b2e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$10,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #42051e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$15,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #5e0b2e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Poker<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$500<\/td>\n    <\/tr>\n    <tr style=\"background-color: #42051e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Live Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$20,000<\/td>\n    <\/tr>\n    <tr style=\"background-color: #5e0b2e;\">\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\"><strong>Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 8px;\">AU$250<\/td>\n    <\/tr>\n  <\/tbody>\n<\/table>\n\n<p>Our betting structure is designed to give you maximum control over your gaming experience while maintaining responsible gambling practices. We clearly display all stake options within each game, and you can adjust your bet size between spins or hands. For high-limit players, we offer VIP tables in our live dealer section with significantly increased maximum bets and dedicated dealers providing premium service.<\/p>\n\n<h3>Sports Betting Markets<\/h3>\n\n<p>Beyond our casino offerings, we've built one of Australia's most comprehensive sports betting platforms with markets covering local and international competitions. Our sportsbook features competitive odds on AFL, NRL, cricket, tennis, basketball, soccer and horse racing, giving you countless opportunities to back your predictions. We update our markets in real-time and offer competitive prices that frequently beat other Australian bookmakers.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Australian racing:<\/strong> Comprehensive coverage of thoroughbred, harness and greyhound racing from every Australian track with best-tote guarantee and exotic bet types.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>AFL and NRL:<\/strong> Full season markets including premiership winner, match betting, line betting, player props and same-game multi builder for bigger odds.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>International sports:<\/strong> NBA, NFL, Premier League, Champions League, tennis majors and more with pre-match and in-play betting options available.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Multi betting:<\/strong> Combine multiple selections from different events into parlays with boosted odds and potential for massive payouts from small stakes.\n  <\/li>\n<\/ul>\n\n<p>We've developed innovative features like Same Game Multi Builder that lets you combine multiple outcomes from a single match for enhanced odds. Our BetShare feature allows you to send your betting slips to friends or copy successful bets from other players with one click. Whether you're betting on Melbourne Cup or the NBA Finals, we provide detailed statistics and market information to inform your decisions.<\/p>\n\n<h3>Game Providers and Software Quality<\/h3>\n\n<p>We partner exclusively with licensed and certified software providers who maintain the highest standards for game quality and fairness. Every provider in our portfolio undergoes rigorous vetting to ensure their games meet Australian regulatory requirements and deliver entertaining, reliable gameplay. Our multi-provider approach gives you access to diverse game styles while maintaining consistent quality across our entire library.<\/p>\n\n<p>Microgaming brings us their legendary progressive jackpot network including Mega Moolah and Major Millions, offering life-changing prize pools that have created numerous millionaires. Evolution Gaming powers our live dealer section with industry-leading streaming technology and professional studios featuring native English-speaking dealers. Rival and Betsoft contribute innovative video pokies with unique features and stunning 3D graphics that push the boundaries of online slot design.<\/p>\n\n<p>All our games are tested monthly by independent auditors who verify random number generator functionality and payout percentages. We publish RTP rates for transparency, and our games consistently perform at or above industry averages. Our technical team works directly with providers to optimize game performance for Australian internet speeds and mobile networks, ensuring smooth gameplay regardless of your connection quality or device specifications.<\/p>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Banking Options, Bonuses & Customer Support",
+                        "description": "<h2>Secure Banking for Australian Players<\/h2>\n\n<p>We've built our payment system specifically for Australian players, offering trusted local banking methods that ensure fast deposits and withdrawals. Our platform supports multiple payment options designed to give you flexibility and convenience when managing your casino balance. We process all transactions through secure encrypted channels and never store your complete card details on our servers for maximum protection.<\/p>\n\n<p>We understand that quick access to your winnings is crucial, which is why we've optimized our withdrawal process to deliver funds faster than most Australian online casinos. Our finance team processes withdrawal requests within 24 hours on business days, and many payment methods deliver funds to your account instantly once approved. We maintain transparent policies with no hidden fees on deposits or withdrawals, ensuring you always receive the full amount you expect.<\/p>\n\n<h3>Deposit Methods and Processing<\/h3>\n\n<p>We accept a wide range of deposit methods tailored to Australian banking preferences. Our minimum deposit is just AU$10, making it easy to start playing regardless of your budget. All deposits are processed instantly, allowing you to begin playing your favourite games within seconds of funding your account. We've eliminated transaction fees from our side, though your bank or payment provider may apply their own charges depending on the method chosen.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Visa and Mastercard:<\/strong> Accept both credit and debit cards from all major Australian banks with instant processing and 3D Secure verification for fraud protection.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>POLi Payments:<\/strong> Direct bank transfer system that connects securely to your online banking without sharing your credentials with us or storing financial data.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>PayID:<\/strong> Instant bank transfers using your mobile number or email address with real-time processing and confirmation for immediate account funding.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>BPAY:<\/strong> Traditional Australian payment system allowing deposits via your internet banking with your unique customer reference number for tracking purposes.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank Transfer:<\/strong> Direct deposits from your Australian bank account with manual processing within one business day and unlimited maximum deposit amounts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cryptocurrency:<\/strong> Bitcoin deposits for enhanced privacy with instant processing and no transaction fees from our side for crypto enthusiasts.\n  <\/li>\n<\/ul>\n\n<p>We've implemented advanced fraud detection systems that protect both our platform and your account from unauthorized transactions. If our system flags unusual activity, we may request additional verification before processing large deposits. This security measure protects your funds and ensures compliance with Australian anti-money laundering regulations while maintaining a smooth experience for legitimate transactions.<\/p>\n\n<h3>Withdrawal Options and Speed<\/h3>\n\n<p>We offer multiple withdrawal methods designed to deliver your winnings quickly and securely. Our standard processing time is within 24 hours of request submission, after which funds are transferred using your chosen method. We've eliminated withdrawal fees entirely, ensuring you receive your full balance without deductions. There are no maximum withdrawal limits per transaction, allowing high rollers to cash out large wins without splitting into multiple requests.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bank Transfer:<\/strong> Direct deposits to your Australian bank account processed within one business day with no transaction fees and unlimited withdrawal amounts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>PayID withdrawals:<\/strong> Instant payouts to your mobile number or email-linked account with funds arriving within minutes of approval for fastest access.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Card withdrawals:<\/strong> Returns to your Visa or Mastercard used for deposits with processing completed within two business days depending on your bank.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cryptocurrency:<\/strong> Bitcoin withdrawals processed within hours with minimal blockchain fees and enhanced privacy for your financial transactions.\n  <\/li>\n<\/ul>\n\n<p>Before your first withdrawal, we require identity verification to comply with Australian gaming regulations and prevent fraud. This one-time process involves submitting a photo ID and proof of address, which our team reviews within 24 hours. Once verified, all future withdrawals process automatically without additional documentation unless you change payment methods or we detect unusual activity requiring extra security checks.<\/p>\n\n<h3>Welcome Bonus and Promotions<\/h3>\n\n<p>We reward new players with one of the most generous welcome bonuses available at Australian online casinos. Our flagship offer provides a 200% match bonus on your first deposit up to AU$2000, instantly tripling your starting bankroll and giving you more funds to explore our game library. This bonus applies automatically when you make your qualifying deposit of at least AU$20, requiring no bonus codes or special activation steps from your side.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>First deposit bonus:<\/strong> Receive 200% match up to AU$2000 on your initial deposit with funds credited instantly to your bonus balance for immediate use.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Cashback insurance:<\/strong> Alternative option offering 100% cashback on first deposit losses with just 1x wagering requirement for minimal restrictions.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Bitcoin bonuses:<\/strong> Enhanced promotions for cryptocurrency users with lower wagering requirements and higher maximum bonus amounts for crypto deposits.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Reload bonuses:<\/strong> Regular deposit match offers for existing players on selected days of the week to boost your bankroll between major wins.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Loyalty rewards:<\/strong> Earn comp points on every real money bet across casino games and sports betting that convert to bonus cash or prizes.\n  <\/li>\n<\/ul>\n\n<p>Our bonus terms are transparent and player-friendly with wagering requirements set at industry-standard levels. We clearly display all terms and conditions before you claim any promotion, including eligible games, contribution percentages and maximum bet limits while playing with bonus funds. You can always check your bonus progress and remaining wagering through your account dashboard, giving you full visibility into your bonus status at all times.<\/p>\n\n<h3>Mobile Gaming Experience<\/h3>\n\n<p>We've optimized our entire platform for mobile devices, allowing you to enjoy casino games and sports betting on smartphones and tablets without downloading any apps. Our mobile site adapts automatically to your screen size and operating system, delivering the same premium experience whether you're using iOS or Android. We've also developed a dedicated iOS app available on the App Store that provides enhanced performance and convenient access with one tap from your home screen.<\/p>\n\n<p>Our mobile platform includes full functionality from desktop version, including account management, deposits, withdrawals, bonus claims and customer support access. Games load quickly even on 4G connections, and we've optimized graphics and controls specifically for touchscreen interfaces. You can seamlessly switch between devices mid-session, as your progress saves automatically to your account in real-time across all platforms for ultimate flexibility.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>iOS compatibility:<\/strong> Native app available on App Store with optimized performance for iPhone and iPad with fingerprint login for quick secure access.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Android support:<\/strong> Fully responsive mobile website works perfectly on all Android devices without requiring app downloads or special configurations.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Touch controls:<\/strong> Games feature intuitive tap-and-swipe interfaces designed specifically for mobile play with larger buttons and optimized layouts.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Portrait and landscape:<\/strong> Most games support both orientations so you can play however feels most comfortable with automatic screen rotation detection.\n  <\/li>\n<\/ul>\n\n<h3>Customer Support Services<\/h3>\n\n<p>We maintain a professional support team available 24 hours a day, seven days a week to assist with any questions or issues you encounter. Our support agents are trained extensively on all aspects of our platform and can help with account management, payment queries, game rules, bonus terms and technical troubleshooting. We pride ourselves on fast response times and friendly service that makes you feel valued as a player rather than just a customer number.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Live chat support:<\/strong> Instant messaging with support agents available 24\/7 with typical response times under two minutes for immediate assistance.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Email support:<\/strong> Detailed responses to complex queries sent to our support address with replies typically delivered within 4-6 hours during business days.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Phone support:<\/strong> Direct telephone line to speak with agents personally for urgent matters or when you prefer voice communication over text.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>FAQ section:<\/strong> Comprehensive knowledge base covering common questions about registration, payments, games and bonuses for instant self-service answers.\n  <\/li>\n<\/ul>\n\n<p>Our support team handles each inquiry professionally while maintaining the friendly Australian hospitality you expect. We track all support tickets to ensure no query goes unanswered, and we follow up on complex issues until they're fully resolved to your satisfaction. For sensitive matters involving account security or dispute resolution, we maintain strict confidentiality and escalate to senior management when necessary to ensure fair outcomes.<\/p>\n\n<h3>Responsible Gaming Commitment<\/h3>\n\n<p>We're committed to promoting responsible gambling practices and providing tools to help you maintain control over your gaming activity. Our platform includes multiple features designed to help you set limits and take breaks when needed, ensuring gambling remains an entertaining pastime rather than a problem. We work closely with Australian responsible gambling organizations and comply with all local regulations regarding player protection and harm minimization.<\/p>\n\n<ul style=\"padding-left: 25px; margin-bottom: 15px; list-style-position: outside;\">\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Deposit limits:<\/strong> Set daily, weekly or monthly deposit caps through your account settings to control how much you fund your casino balance.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Session reminders:<\/strong> Receive time alerts during extended play sessions to help you monitor how long you've been gambling and take breaks when needed.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Self-exclusion:<\/strong> Temporarily or permanently close your account if you need time away from gambling with options ranging from 24 hours to permanent closure.\n  <\/li>\n  <li style=\"margin-bottom: 8px; line-height: 1.6; display: list-item; list-style-type: disc;\">\n    <strong>Reality checks:<\/strong> Automatic pop-ups during gameplay showing your session duration and net wins or losses to maintain awareness of your activity.\n  <\/li>\n<\/ul>\n\n<p>We provide links to professional support services including Gambling Help Online and Lifeline for players who feel their gambling may be problematic. Our staff receives regular training to identify concerning behaviour patterns and can assist you in activating restrictions or seeking help from appropriate organizations. We never pressure players to gamble beyond their means and actively encourage healthy gaming habits through educational materials and responsible messaging throughout our platform.<\/p>\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "How do I create an account at Boombet?",
+                            "answer": "Creating your Boombet account takes just minutes. Click the Sign Up button, provide your email address, create a secure password and enter your personal details including name and date of birth. Verify your email through the confirmation link we send, then log in and make your first deposit to start playing. You must be 18 years or older and reside in Australia to register."
+                        },
+                        {
+                            "title": "What is the minimum deposit amount?",
+                            "answer": "Our minimum deposit is AU$10 across all payment methods including cards, bank transfers and cryptocurrency. This low threshold makes it easy to start playing regardless of your budget. There are no maximum deposit limits, allowing high rollers to fund large balances in single transactions. All deposits process instantly except bank transfers and BPAY which may take one business day."
+                        },
+                        {
+                            "title": "How long do withdrawals take to process?",
+                            "answer": "We process withdrawal requests within 24 hours on business days once your account is verified. PayID withdrawals arrive almost instantly after approval, while bank transfers typically take one additional business day. Card withdrawals may take two business days depending on your bank. Cryptocurrency withdrawals process within hours. There are no withdrawal fees from our side and no maximum limits per transaction."
+                        },
+                        {
+                            "title": "Is Boombet licensed and safe to play?",
+                            "answer": "We operate under a Northern Territory gaming license which requires strict compliance with Australian gambling regulations. Our platform uses advanced SSL encryption to protect all data and financial transactions. All games are certified for fairness by independent testing agencies and use random number generators to ensure unpredictable outcomes. We never share your personal information with third parties without consent."
+                        },
+                        {
+                            "title": "Can I play on my mobile phone or tablet?",
+                            "answer": "Our entire platform is fully optimized for mobile devices including smartphones and tablets. We offer a dedicated iOS app downloadable from the App Store, while Android users can access our responsive mobile website through any browser. All games, banking options and account features work seamlessly on mobile with the same quality as desktop. Your progress syncs automatically across all devices."
+                        },
+                        {
+                            "title": "What games can I play at Boombet Casino?",
+                            "answer": "We offer over 300 casino games including pokies from providers like Microgaming, Evolution Gaming, Rival and Betsoft. Our collection includes classic three-reel pokies, modern video slots, progressive jackpots, live dealer tables for roulette, blackjack, baccarat and poker variants. We also feature a comprehensive sportsbook covering AFL, NRL, racing and international sports. New games are added monthly to keep our library fresh."
+                        },
+                        {
+                            "title": "How do I claim the welcome bonus?",
+                            "answer": "Your welcome bonus activates automatically when you make your first deposit of at least AU$20. We offer a 200% match up to AU$2000, meaning a AU$100 deposit gives you AU$200 bonus for AU$300 total playing balance. Alternatively, choose our 100% Cashback Insurance option by contacting support before depositing. Standard wagering requirements apply before bonus funds convert to withdrawable cash."
+                        },
+                        {
+                            "title": "What payment methods do you accept?",
+                            "answer": "We accept Visa, Mastercard, bank transfers, POLi, PayID, BPAY and Bitcoin for deposits. Withdrawals are available via bank transfer, PayID, cards and cryptocurrency. All transactions are processed through secure encrypted channels. We don't charge fees for deposits or withdrawals, though your bank or payment provider may apply their own charges. PayID offers the fastest payouts, arriving within minutes of approval."
+                        },
+                        {
+                            "title": "Can I set limits on my gambling activity?",
+                            "answer": "We provide comprehensive responsible gambling tools including deposit limits, session time reminders, reality checks and self-exclusion options. You can set daily, weekly or monthly deposit caps through your account settings. Session reminders alert you during extended play. If you need a break, activate temporary or permanent self-exclusion. Contact our support team anytime for assistance with responsible gaming controls."
+                        },
+                        {
+                            "title": "How do I contact customer support?",
+                            "answer": "Our support team is available 24\/7 via live chat, email and phone. Live chat provides the fastest responses, typically within two minutes, and is accessible from any page on our website. For detailed inquiries, email our support address and receive replies within 4-6 hours on business days. Phone support connects you directly with agents for urgent matters. Our comprehensive FAQ section also answers most common questions instantly."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
